@@ -1,0 +1,10 @@
+[
+  {
+    "id": 1,
+    "author": "elastic",
+    "date_inserted": "2024-04-23T08:22:26.274Z",
+    "file_type": "pdf",
+    "file_extension": "pdf",
+    "file_content": " الوصف (اجباري)   قواعد البيانات (اجباري)   فريق العمل(اجباري)   الملحقات (اجباري):  o السياسات والاجراءات  o محاضر الاجتماعات   o الدراسات المعيارية   o لوحة البيانات   o العروض  o التقارير  o الخطابات  o الفيديو   o الصور    سجل التعديلات(اجباري)  o التعديلات حسب لأنشطة (الالكترونية)  o التعديلات الفعلية مدخلة من المعدل:   FAQ(مثال عمل سابق ) (اختياري)   Comments(اختياري)  - Description (mandatory)  - Databases (mandatory)  - Team (mandatory)  - Appendices (mandatory):    - Policies and Procedures    - Meeting Minutes    - Benchmark Studies    - Dashboard    - Presentations    - Reports    - Letters    - Videos    - Photos  - Revision Log (mandatory)    - Modifications by Activity (electronic)    - Actual Modifications Entered by the Editor:  - FAQ (Example of Previous Work) (optional)  - Comments (optional) "
+  }
+]
